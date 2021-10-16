@@ -1,5 +1,3 @@
-import java.util.NoSuchElementException;
-
 public class SinglyLinkedList {
     static class Node {
         int data;
